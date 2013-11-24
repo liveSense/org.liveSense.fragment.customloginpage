@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><features name="liveSense-${liveSense.version}-fragment-customloginpage" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+	<feature name="liveSense-fragment-customloginpage" version="${liveSense.fragment.customloginpage.version}" description="liveSense fragment customloginpage">
+		<bundle>mvn:com.github.livesense/org.liveSense.fragment.customloginpage/${liveSense.fragment.customloginpage.version}</bundle>
+	</feature>
+</features>
