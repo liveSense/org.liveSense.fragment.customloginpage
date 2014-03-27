@@ -9,6 +9,11 @@
 		<version>2-SNAPSHOT</version>
 		<relativePath>..</relativePath>
 	</parent>
+	<scm>
+		<connection>scm:git:https://github.com/liveSense/org.liveSense.fragment.customloginpage.git</connection>
+		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.fragment.customloginpage.git</developerConnection>
+		<url>https://github.com/liveSense/org.liveSense.fragment.customloginpage</url>
+	</scm>
 
  <name>liveSense :: Extension :: Auth LDAP Custom login page</name>
     <description>
